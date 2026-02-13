@@ -1,0 +1,19 @@
+# --- BASURA DE PYTHON ---
+# Carpetas que Python crea para ir más rápido (no sirven en la nube)
+__pycache__/
+*.pyc
+
+# --- ARCHIVOS DE SISTEMA ---
+# Archivos basura de Mac o Windows
+.DS_Store
+Thumbs.db
+
+# --- SEGURIDAD Y CONFIGURACIÓN ---
+# Aquí van tus contraseñas y configuraciones personales
+.env
+.vscode/
+
+# --- ARCHIVOS DE PRUEBA ---
+# Cualquier archivo de texto donde anotes cosas rápidas
+borrador.txt
+claves.txt
