@@ -26,7 +26,7 @@ if retiro_texto.isdigit():
         print("Su nuevo saldo es: $" + str(saldo_nuevo))
         print("Por favor tome su dinero.")
 
-    else:
+      else:
         # OPERACIÓN (Fallo de saldo)
         # Este else debe alinearse verticalmente con el if de arriba (línea 18)
         # HE QUITADO LOS # PARA QUE FUNCIONE:

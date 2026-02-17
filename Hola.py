@@ -1,1 +1,6 @@
-print("Hola Mundo")
+print("--- CALCULADORA DE EDAD ---")
+nombre = input("¿Como te llamas?")
+anio_nacimiento = input("¿En que año naciste?")
+anio_nacimiento = input("¿En que año naciste?")
+edad = 2026 - int(anio_nacimiento)
+print("Hola " + nombre + ", tu edad aproximada es " + str(edad) + "años.")
